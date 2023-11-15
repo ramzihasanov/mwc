@@ -1,0 +1,50 @@
+C:\Users\Mehemmed\Desktop\BP206task\MVC\MVC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Mehemmed\Desktop\BP206task\MVC\MVC\bin\Debug\net6.0\appsettings.json
+C:\Users\Mehemmed\Desktop\BP206task\MVC\MVC\bin\Debug\net6.0\MVC.exe
+C:\Users\Mehemmed\Desktop\BP206task\MVC\MVC\bin\Debug\net6.0\MVC.deps.json
+C:\Users\Mehemmed\Desktop\BP206task\MVC\MVC\bin\Debug\net6.0\MVC.runtimeconfig.json
+C:\Users\Mehemmed\Desktop\BP206task\MVC\MVC\bin\Debug\net6.0\MVC.dll
+C:\Users\Mehemmed\Desktop\BP206task\MVC\MVC\bin\Debug\net6.0\MVC.pdb
+C:\Users\Mehemmed\Desktop\BP206task\MVC\MVC\obj\Debug\net6.0\MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehemmed\Desktop\BP206task\MVC\MVC\obj\Debug\net6.0\MVC.AssemblyInfoInputs.cache
+C:\Users\Mehemmed\Desktop\BP206task\MVC\MVC\obj\Debug\net6.0\MVC.AssemblyInfo.cs
+C:\Users\Mehemmed\Desktop\BP206task\MVC\MVC\obj\Debug\net6.0\MVC.csproj.CoreCompileInputs.cache
+C:\Users\Mehemmed\Desktop\BP206task\MVC\MVC\obj\Debug\net6.0\MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mehemmed\Desktop\BP206task\MVC\MVC\obj\Debug\net6.0\MVC.RazorAssemblyInfo.cache
+C:\Users\Mehemmed\Desktop\BP206task\MVC\MVC\obj\Debug\net6.0\MVC.RazorAssemblyInfo.cs
+C:\Users\Mehemmed\Desktop\BP206task\MVC\MVC\obj\Debug\net6.0\staticwebassets\msbuild.MVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Mehemmed\Desktop\BP206task\MVC\MVC\obj\Debug\net6.0\staticwebassets\msbuild.build.MVC.props
+C:\Users\Mehemmed\Desktop\BP206task\MVC\MVC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MVC.props
+C:\Users\Mehemmed\Desktop\BP206task\MVC\MVC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MVC.props
+C:\Users\Mehemmed\Desktop\BP206task\MVC\MVC\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Mehemmed\Desktop\BP206task\MVC\MVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Mehemmed\Desktop\BP206task\MVC\MVC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Mehemmed\Desktop\BP206task\MVC\MVC\obj\Debug\net6.0\scopedcss\bundle\MVC.styles.css
+C:\Users\Mehemmed\Desktop\BP206task\MVC\MVC\obj\Debug\net6.0\MVC.dll
+C:\Users\Mehemmed\Desktop\BP206task\MVC\MVC\obj\Debug\net6.0\refint\MVC.dll
+C:\Users\Mehemmed\Desktop\BP206task\MVC\MVC\obj\Debug\net6.0\MVC.pdb
+C:\Users\Mehemmed\Desktop\BP206task\MVC\MVC\obj\Debug\net6.0\MVC.genruntimeconfig.cache
+C:\Users\Mehemmed\Desktop\BP206task\MVC\MVC\obj\Debug\net6.0\ref\MVC.dll
+C:\Users\hesen\OneDrive\İş masası\mvctask\Mwc\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\hesen\OneDrive\İş masası\mvctask\Mwc\bin\Debug\net6.0\appsettings.json
+C:\Users\hesen\OneDrive\İş masası\mvctask\Mwc\bin\Debug\net6.0\MVC.exe
+C:\Users\hesen\OneDrive\İş masası\mvctask\Mwc\bin\Debug\net6.0\MVC.deps.json
+C:\Users\hesen\OneDrive\İş masası\mvctask\Mwc\bin\Debug\net6.0\MVC.runtimeconfig.json
+C:\Users\hesen\OneDrive\İş masası\mvctask\Mwc\bin\Debug\net6.0\MVC.dll
+C:\Users\hesen\OneDrive\İş masası\mvctask\Mwc\bin\Debug\net6.0\MVC.pdb
+C:\Users\hesen\OneDrive\İş masası\mvctask\Mwc\obj\Debug\net6.0\MVC.csproj.AssemblyReference.cache
+C:\Users\hesen\OneDrive\İş masası\mvctask\Mwc\obj\Debug\net6.0\MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hesen\OneDrive\İş masası\mvctask\Mwc\obj\Debug\net6.0\MVC.AssemblyInfoInputs.cache
+C:\Users\hesen\OneDrive\İş masası\mvctask\Mwc\obj\Debug\net6.0\MVC.AssemblyInfo.cs
+C:\Users\hesen\OneDrive\İş masası\mvctask\Mwc\obj\Debug\net6.0\MVC.csproj.CoreCompileInputs.cache
+C:\Users\hesen\OneDrive\İş masası\mvctask\Mwc\obj\Debug\net6.0\MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hesen\OneDrive\İş masası\mvctask\Mwc\obj\Debug\net6.0\MVC.RazorAssemblyInfo.cache
+C:\Users\hesen\OneDrive\İş masası\mvctask\Mwc\obj\Debug\net6.0\MVC.RazorAssemblyInfo.cs
+C:\Users\hesen\OneDrive\İş masası\mvctask\Mwc\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hesen\OneDrive\İş masası\mvctask\Mwc\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hesen\OneDrive\İş masası\mvctask\Mwc\obj\Debug\net6.0\scopedcss\bundle\MVC.styles.css
+C:\Users\hesen\OneDrive\İş masası\mvctask\Mwc\obj\Debug\net6.0\MVC.dll
+C:\Users\hesen\OneDrive\İş masası\mvctask\Mwc\obj\Debug\net6.0\refint\MVC.dll
+C:\Users\hesen\OneDrive\İş masası\mvctask\Mwc\obj\Debug\net6.0\MVC.pdb
+C:\Users\hesen\OneDrive\İş masası\mvctask\Mwc\obj\Debug\net6.0\MVC.genruntimeconfig.cache
+C:\Users\hesen\OneDrive\İş masası\mvctask\Mwc\obj\Debug\net6.0\ref\MVC.dll
